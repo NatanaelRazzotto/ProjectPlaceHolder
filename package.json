@@ -1,0 +1,22 @@
+{
+  "name": "project_place_holder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/app"
+  },
+  "keywords": [],
+  "author": "Natanael_Razzotto",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mysql2": "^2.3.0",
+    "node-fetch": "^2.6.1",
+    "sequelize": "^6.6.5"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
